@@ -32,7 +32,7 @@ I really enjoy figuring out how to solve problems in the most efficent way i can
 
 ---
 
-## 💼 Featured Project
+## 💼 Featured Projects
 
 ### 🖥️ Hardware Hub
 A specialized marketplace platform for gaming PCs and computer parts, built as my final group project at Dev Academy.
