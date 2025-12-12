@@ -87,7 +87,7 @@ A swipe-based movie discovery app where couples can find their next watch togeth
 
 ---
 
-*"A famous man once said "We Create Our Own Demons"."*
+*"A famous man once said We Create Our Own Demons."*
 ![ironman](https://github.com/user-attachments/assets/6f766a4b-b73f-44f2-bb82-39a9a3b6c503)
 
 
