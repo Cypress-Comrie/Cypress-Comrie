@@ -44,13 +44,6 @@ A specialized marketplace platform for gaming PCs and computer parts, built as m
 
 ---
 
-## 📊 GitHub Stats
-
-![Cypress's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cypress-Comrie&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cypress-Comrie&layout=compact&theme=dark)
-
----
 
 ## 🌱 Currently Learning
 
