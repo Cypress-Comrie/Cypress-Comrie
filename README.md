@@ -3,9 +3,9 @@
 
 ## 🚀 About Me
 
-I'm a **Junior Full-Stack Web Developer** based in New Plymouth, New Zealand, passionate about solving problems through code. I recently completed an intensive bootcamp at **Dev Academy Aotearoa**, where I built full-stack applications and developed strong technical and collaborative skills.
+I'm a **Junior Full-Stack Web Developer** based in New Plymouth, New Zealand, very ready to enter the tech world!. I recently completed a 10 month bootcamp at **Dev Academy Aotearoa**, where I built full-stack applications and developed strong technical and collaborative skills.
 
-I love breaking down complex challenges and creating solutions that actually work. Currently seeking my first role in web development where I can contribute, learn, and grow alongside experienced developers.
+I really enjoy figuring out how to solve problems in the most efficent way i can find. Currently seeking my first role in web development where I can contribute, learn, and grow alongside experienced developers.
 
 ---
 
@@ -35,12 +35,12 @@ I love breaking down complex challenges and creating solutions that actually wor
 ## 💼 Featured Project
 
 ### 🖥️ Hardware Hub
-A specialized marketplace platform for gaming PCs and computer parts, built as my final capstone project at Dev Academy.
+A specialized marketplace platform for gaming PCs and computer parts, built as my final group project at Dev Academy.
 
 **Tech Stack:** React, Express, SQLite, Auth0, Tailwind CSS  
-**Features:** Product search & filtering, user authentication, secure order processing, responsive design
+**Features:** Product search & filtering, create listings, user authentication, responsive design
 
-**What I built:** Led a team of 4 developers over 7 days using agile practices. Implemented full-stack functionality including RESTful APIs, database design, and secure authentication flow.
+**What I built:** Led a team of 4 developers over 14 days using agile practices. Implemented full-stack functionality including RESTful APIs, database design, and secure authentication flow.
 
 ---
 
@@ -48,8 +48,8 @@ A specialized marketplace platform for gaming PCs and computer parts, built as m
 ## 🌱 Currently Learning
 
 - Building more complex React applications
-- Exploring backend optimization and database design
 - Expanding my portfolio with personal projects
+- Building agents
 
 ---
 
