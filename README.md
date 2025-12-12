@@ -42,6 +42,20 @@ A specialized marketplace platform for gaming PCs and computer parts, built as m
 
 **What I built:** Led a team of 4 developers over 14 days using agile practices. Implemented full-stack functionality including RESTful APIs, database design, and secure authentication flow.
 
+
+### 🎬 Findr
+The Tinder for movies, designed for couples.
+A swipe-based movie discovery app where couples can find their next watch together. Swipe right on movies you want to see, and when both partners swipe yes, it automatically gets added to your shared watchlist.
+Tech Stack: React, Express, SQLite, TMDB API, Auth0, Tailwind CSS
+Features:
+
+Tinder-style swipe mechanic for movie discovery
+Partner connection system for shared watchlists
+Genre and time range filtering
+Personal and shared watchlist management
+Direct links to streaming platforms
+Solo mode for single users
+
 ---
 
 
