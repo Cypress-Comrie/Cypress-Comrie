@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm a **Junior Full-Stack Web Developer** based in New Plymouth, New Zealand, very ready to enter the tech world!. I recently completed a 10 month bootcamp at **Dev Academy Aotearoa**, where I built full-stack applications and developed strong technical and collaborative skills.
+I'm a **Web Developer** based in New Plymouth, New Zealand, very ready to enter the tech world!. I recently completed a 10 month bootcamp at **Dev Academy Aotearoa**, where I built full-stack applications and developed strong technical and collaborative skills.
 
 I really enjoy figuring out how to solve problems in the most efficent way i can find. Currently seeking my first role in web development where I can contribute, learn, and grow alongside experienced developers.
 
