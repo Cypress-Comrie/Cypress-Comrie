@@ -67,6 +67,7 @@ A swipe-based movie discovery app where couples can find their next watch togeth
 - Expanding my portfolio with personal projects
 - Building agents
 - react native
+- C#
 
 ---
 
